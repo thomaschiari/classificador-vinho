@@ -1,6 +1,8 @@
-numpy
 pandas
 matplotlib
 scikit-learn
 jupyterlab
 yapf
+tensorflow
+keras
+numpy
